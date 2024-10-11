@@ -1,0 +1,7 @@
+streamlit==1.20.0
+sounddevice==0.4.6
+numpy==1.23.5
+scipy==1.10.1
+assemblyai==1.0.0
+translate==3.6.1
+elevenlabs==0.0.1
